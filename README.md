@@ -33,7 +33,7 @@ cd Number-Recognition
 ```
   3. Run the Jupyter Notebook file:
 ```bash
-jupyter notebook DeepLearning_MNIST_Classification.ipynb
+jupyter notebook Deeplearning.ipynb
 ```
 ## Procedure 
 1. **Dataset Loading**: The MNIST dataset is loaded using Keras, consisting of 60,000 training images and 10,000 test images, each of size 28x28 pixels.  
